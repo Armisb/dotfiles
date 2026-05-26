@@ -1,0 +1,22 @@
+# Open geometry dash
+alias gd="./Downloads/Geometry.Dash-jc141/start.n-w.sh"
+
+# Set default resolution and refresh rate
+alias res="xrandr --rate 144 --size 1920x1080"
+
+# Password typer
+alias pt="sudo python Documents/prog/py/password_typer.py"
+
+# Enable OpenTabletDriver
+alias tb="systemctl --user enable opentabletdriver --now"
+
+# Reload daemon
+alias dae="systemctl --user daemon-reload"
+
+# Set Nvim to vim
+alias vim=nvim
+
+# ls to ls -a
+alias ls="ls -a"
+
+
