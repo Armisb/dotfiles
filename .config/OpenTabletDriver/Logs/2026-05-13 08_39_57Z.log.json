@@ -1,0 +1,6401 @@
+[
+{
+  "Time": "2026-05-13T11:39:57.9886692+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Erase Button'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:57.9966614+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Precision Control'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:57.9971941+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Additional Keys'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:57.999621+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:58.0078906+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Acepen AP1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:58.008646+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Acepen AP906'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:58.0086712+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Adesso Cybertablet K8'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:39:58.0086784+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul A1201'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3593133+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3689572+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.369065+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul AP604'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3690806+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul D16 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3709473+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3729456+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3730124+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul D22S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3730237+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul M0610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.373055+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Bosto BT-12HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3730621+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'FlooGoo FMA100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3730692+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon 1060 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.374947+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3769484+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3770312+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon GM116HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3789471+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3809518+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3810257+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon GM156HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3829534+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3849479+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3850146+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M106K Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3869467+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.38895+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3890225+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M106K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3890452+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M10K Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3909462+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3929521+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3930296+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M10K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3930542+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M1220'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3949456+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3969513+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3970349+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M1230'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.3989446+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4009448+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4010132+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M5'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4010271+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M6'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4029492+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4049499+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4050052+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4050173+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M8 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4050239+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M8'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4050354+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4069485+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.408945+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4090026+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1320'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4109523+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4129454+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4130022+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD156 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4149492+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4169433+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4170068+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1560'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.417025+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1561'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4189452+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4209482+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4210137+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD2200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4229462+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4249545+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4250232+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S56K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4250446+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S620'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.426946+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4289538+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4290298+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4309455+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4329503+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4330202+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S830'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4349506+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4369456+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370052+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius G-Pen 560'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370189+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius G-Pen F509'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370255+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius i405x'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370317+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius i608x'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370433+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion 1060 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370553+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion 420'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370733+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion G10T'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370803+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion G930L'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4370864+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GC610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4389488+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4409519+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410288+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-156HD V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410473+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-191 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410612+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-220 V2 (2048)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410692+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-220 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410766+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-221 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410885+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-221'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4410958+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1060P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4439499+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4459475+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.446028+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1061P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4460424+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4479447+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4499512+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4500339+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H320M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4519455+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4539499+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4540207+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H420'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4540302+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H420X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4559492+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4579491+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4580202+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H430P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.459949+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4619561+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4620463+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H580X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4639481+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4659484+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4660147+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4679709+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4699534+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4700315+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4700553+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4719502+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.473957+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4740358+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4759524+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4779516+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4780216+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H640P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4799549+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4819487+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4839537+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4859483+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4860267+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H641P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4860407+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H642'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4879486+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4899498+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4900312+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4900445+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H950P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4919484+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4939493+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4940297+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H951P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4940394+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HC16 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4940469+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HC16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4959469+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4979484+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4980197+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.4999477+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5029494+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5030273+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS611'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5059486+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5089475+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5090246+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS64'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5119488+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5149469+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5150238+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS95'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5179466+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5371711+03:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 1, Add: 0, Remove: 1",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5471798+03:00",
+  "Group": "DeviceIOException",
+  "Message": "Unable to retrieve device's supported langId: OK",
+  "StackTrace": "   at HidSharp.Platform.Linux.LinuxHidDevice.GetDeviceString(Int32 index)\n   at OpenTabletDriver.Devices.HidSharpBackend.HidSharpEndpoint.GetDeviceString(Byte index) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Devices/HidSharpBackend/HidSharpEndpoint.cs:line 38\n   at OpenTabletDriver.Driver.DeviceMatchesStrings(IDeviceEndpoint device, Dictionary`2 deviceStrings) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 197",
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5474671+03:00",
+  "Group": "InvalidOperationException",
+  "Message": "Collection was modified; enumeration operation may not execute.",
+  "StackTrace": "   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()\n   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()\n   at OpenTabletDriver.Driver.MatchDevice(TabletConfiguration config, IList`1 identifiers) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 158\n   at OpenTabletDriver.Driver.Match(TabletConfiguration config) in /home/arminas/.cache/yay/opentabletdriver/src/OpenTabletDriver-0.6.7/OpenTabletDriver/Driver.cs:line 106",
+  "Level": 3,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5476609+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5476777+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 13 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5476851+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 13'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5476966+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16 (2021)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477039+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477106+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477198+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 20'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477264+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 22 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477335+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 22'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477403+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 24 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477571+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477642+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477767+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 13 (2.5k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477835+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 13'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5477923+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 (2.5k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478051+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 (4k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.547812+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 Plus (4k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478219+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478285+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478374+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 19 (4K)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478473+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 20'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478539+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 22 (2019)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478604+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24 (4K)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478688+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478753+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478816+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 27'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5478983+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion L310'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479058+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion L610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.547912+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion New 1060 Plus (2048)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479318+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion New 1060 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479414+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Note X10'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479482+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q11K V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479584+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q11K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479675+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q620M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.547978+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q630M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479847+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RDS-160'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5479916+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RDS-220'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480007+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTE-100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480073+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTM-500'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480168+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTP-700'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480306+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409 V2 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480377+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480443+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480606+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'KENTING K5540'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480673+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'LetSketch WP9620C'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480741+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'LifeTec LT9570'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548084+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Monoprice 10594'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5480953+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Monoprice MP1060-HA60'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481054+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A609'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481119+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610 Pro (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481183+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481267+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548133+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A640 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481394+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481506+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481593+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481713+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo SW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481778+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481866+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N4'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5481968+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482056+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N7B'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482154+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482241+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'RobotPen T9A'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482307+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Trust Flex Design Tablet'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482478+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Turcom TS-6580'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482577+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic 1060N'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482772+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic PF1209'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482846+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic TWMNA62'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5482916+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483052+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548312+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483256+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M808'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483322+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M908'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483386+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE S1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483453+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE S640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483553+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE U1200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483619+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE U1600'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483685+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE UE16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483768+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483857+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5483998+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484069+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A30 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484135+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A30'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484198+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A50 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484299+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A50'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484388+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK S640 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484485+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK S640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484548+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484611+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1060PRO'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484676+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484778+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK2200PRO'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484843+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK430 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5484911+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548503+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485096+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK Voila (VO1060)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485161+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'ViewSonic Woodpad PF0730'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548527+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'ViewSonic Woodpad PF1030'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485338+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTC-4110WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485477+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTC-6110WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485567+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485694+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-440'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485806+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485905+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5485991+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486115+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486206+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486289+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-660'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486354+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTF-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486419+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-300'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486484+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-301'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486623+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486736+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-461'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5486905+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487029+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-480'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487119+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-490'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487356+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-661'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487518+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-670'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487607+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-680'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487797+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5487885+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-4100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488005+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-4100WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548828+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488369+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488487+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-471'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488583+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-472'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488688+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-480'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488777+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-490'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5488912+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-6100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548898+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-6100WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489067+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-671'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489189+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-672'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489277+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-680'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489396+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489485+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTC-121'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489584+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTC-133'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.548967+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTH-1320'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489753+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Movink 13 (DTH-135)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489819+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 22HD Touch (DTH-2200)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489882+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq Pro 22 (DTH-227)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5489991+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq Pro 27 (DTH-271)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490053+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 13HD (DTK-1300)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490118+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 16 (DTK-1660)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490252+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 21UX (DTK-2100)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490318+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 22HD (DTK-2200)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490458+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 12WX (DTZ-1200W)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490588+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 21UX (DTZ-2100)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490653+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom ET-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490774+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom ET-0405A-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490858+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom FT-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5490962+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491046+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0608-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491221+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0912-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491307+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-1212-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491423+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-1218-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491508+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom MTE-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491625+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 18SX (PL-800-U)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.549169+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491807+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-451'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5491893+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492022+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492108+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-651'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492269+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-660'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492361+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-850'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492497+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-851'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492583+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-860'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492725+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-1240'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.549281+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-440'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5492927+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.549302+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493102+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-540WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493188+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493344+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493435+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-670'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493533+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-840'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493618+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-870'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493681+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTU-600U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493775+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-1230'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5493861+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-1231W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494001+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494088+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-431W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494194+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494279+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-631W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494435+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-930'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494526+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494647+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0608-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494737+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0912-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494852+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-1212-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5494937+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-1218-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495056+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Waltop Slim Tablet 5.8\"'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495123+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XenceLabs Pen Tablet Medium'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495243+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XenceLabs Pen Tablet Small'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495306+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX P1-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495369+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX P3-1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495455+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX X1-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495519+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XOPPOX D161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495654+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 10 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495724+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 10S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495784+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495874+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495935+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5495995+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496055+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.549615+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496212+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.549627+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496364+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496424+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496503+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496581+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496642+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496703+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496833+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496899+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22R Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5496957+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 24 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497063+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497125+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 14 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497188+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 16 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497282+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 16TP'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497345+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 19 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497402+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 22 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497464+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 24 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497591+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun L (CT1060)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497651+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun XS (CT430)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497765+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun S (CT640)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497843+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V2 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5497997+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498097+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V3 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498203+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498262+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498322+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 02'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498413+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 03'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498473+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 640 (IT640)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498535+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco L'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498594+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco LW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498684+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498744+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini4'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498857+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5498938+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499135+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7W V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499198+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco MW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499291+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro LW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499354+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro Medium'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499412+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro MW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499503+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro MW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499581+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro Small'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499642+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro SW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499736+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro XLW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499794+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Innovator 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499852+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 02'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5499948+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500009+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500069+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500234+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 05 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500298+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 06'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500402+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 06C'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500463+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500601+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430S V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500722+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.55008+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G540 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500891+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G540'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5500951+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5501011+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5501217+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5501314+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5501447+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960S Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5501532+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5507257+03:00",
+  "Group": "Detect",
+  "Message": "No tablets were detected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5523534+03:00",
+  "Group": "Settings",
+  "Message": "Using OpenTabletDriver application data directory: /home/arminas/.config/OpenTabletDriver",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5541799+03:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 1, Add: 0, Remove: 1",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5588183+03:00",
+  "Group": "RootHub",
+  "Message": "Debounced HidSharpDeviceRootHub's DevicesChanged event",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:35.5746135+03:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2583568+03:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 2, Remove: 0",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2786042+03:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2826304+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2828981+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Acepen AP1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2829457+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Acepen AP906'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2829613+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Adesso Cybertablet K8'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.2829738+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul A1201'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4016266+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul AP604'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4016514+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul D16 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4598362+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul D22S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4598755+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Artisul M0610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4599014+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Bosto BT-12HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4599211+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'FlooGoo FMA100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.4599385+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon 1060 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.5196297+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon GM116HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.5795822+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon GM156HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.6375923+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M106K Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.6975994+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M106K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.6976176+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M10K Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.7555892+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M10K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.755607+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M1220'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.8155726+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M1230'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.8755873+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M5'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.875605+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M6'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.9335899+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.9336087+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M8 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.933615+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon M8'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.93362+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:39.9935923+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1320'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.0515717+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD156 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.1115743+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1560'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.111589+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD1561'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.1685796+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon PD2200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.224568+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S56K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.2245918+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S620'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.3446521+03:00",
+  "Group": "Device",
+  "Message": "Initializing device 'Gaomon Tablet' /sys/devices/pci0000:00/0000:00:01.2/0000:02:00.0/usb1/1-9/1-9.2/1-9.2:1.0/0003:256C:006D.000D/hidraw/hidraw10",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.3446897+03:00",
+  "Group": "Device",
+  "Message": "Using report parser type 'OpenTabletDriver.Configurations.Parsers.UCLogic.UCLogicReportParser'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.368766+03:00",
+  "Group": "Device",
+  "Message": "Initialized string index 200",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.3689784+03:00",
+  "Group": "Detect",
+  "Message": "Found tablet 'Gaomon S620'",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.3697889+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4255591+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Gaomon S830'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4735705+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius G-Pen 560'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4735844+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius G-Pen F509'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4735891+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius i405x'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4735929+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Genius i608x'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4736029+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion 1060 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4736072+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion 420'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4736154+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion G10T'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4736192+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion G930L'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.4736229+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GC610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5275549+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-156HD V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.527569+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-191 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5275734+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-220 V2 (2048)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5275944+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-220 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5275984+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-221 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5276024+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion GT-221'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.527611+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1060P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.5855589+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1061P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.585578+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H1161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.6455551+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H320M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.7055683+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H420'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.7055872+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H420X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.7635495+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H430P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.8235554+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H580X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.8775467+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.9316152+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.9316291+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:40.9895441+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H610X'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.0495547+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H640P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.1675492+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H641P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.1675615+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H642'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.2275427+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.2275645+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H950P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.2855424+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion H951P'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.2855554+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HC16 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.2855597+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HC16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.3455456+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.4055418+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS611'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.4595409+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS64'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.5135449+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion HS95'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.5715265+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.6315329+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 13 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.6315453+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 13'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.6915265+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16 (2021)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.749523+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.7495404+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.8095255+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 20'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.8095551+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 22 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.8635291+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 22'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.9175186+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 24 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:41.9775205+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.0355237+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.0368125+03:00",
+  "Group": "IPC",
+  "Message": "Connected to a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.0955164+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 13 (2.5k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.1505298+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 13'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2085268+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 (2.5k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.1959953+03:00",
+  "Group": "UnixXdgPath",
+  "Message": "XDG_DATA_HOME not found, falling back to '/home/arminas/.local/share'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2021297+03:00",
+  "Group": "UnixXdgPath",
+  "Message": "XDG_CONFIG_HOME not found, falling back to '/home/arminas/.config'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2024377+03:00",
+  "Group": "UnixXdgPath",
+  "Message": "XDG_RUNTIME_DIR found: '/run/user/1000'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2027085+03:00",
+  "Group": "UnixXdgPath",
+  "Message": "XDG_CACHE_HOME not found, falling back to '/home/arminas/.cache'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2180819+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Erase Button'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2257987+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Precision Control'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.2264331+03:00",
+  "Group": "Plugin",
+  "Message": "Loading plugin 'Additional Keys'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.322514+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 (4k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.3765084+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 Plus (4k)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.4345136+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.43467+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.5084211+03:00",
+  "Group": "Settings",
+  "Message": "Presets have been refreshed. Loaded 0 presets.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.5545152+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 19 (4K)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.554614+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 20'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.5546721+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 22 (2019)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.5547341+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24 (4K)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6125055+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24 (Gen 3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6126068+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6126643+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Kamvas Pro 27'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6127227+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion L310'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6127803+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion L610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6128465+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion New 1060 Plus (2048)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6129085+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion New 1060 Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.6675055+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Note X10'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.7254994+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q11K V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.7255851+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q11K'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.7855007+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q620M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.8434978+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion Q630M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.8436431+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RDS-160'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.9034952+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RDS-220'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.9036452+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTE-100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.9037271+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTM-500'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:42.9634963+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion RTP-700'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.017506+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409 V2 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0175839+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0176421+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Huion WH1409'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.017696+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'KENTING K5540'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0177536+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'LetSketch WP9620C'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0178027+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'LifeTec LT9570'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.017997+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Monoprice 10594'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.018065+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Monoprice MP1060-HA60'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0181514+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A609'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0182421+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610 Pro (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0182915+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0183391+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A610'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.018386+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A640 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0184311+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo A640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0184743+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0185172+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0185635+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Intangbo SW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0186078+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0186539+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N4'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0186958+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0187353+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos N7B'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0187725+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Parblo Ninos S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0188133+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'RobotPen T9A'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0188614+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Trust Flex Design Tablet'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0189457+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Turcom TS-6580'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0189917+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic 1060N'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0190732+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic PF1209'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0191239+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UC-Logic TWMNA62'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0191719+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0192123+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0192567+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M708'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.019299+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M808'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0193422+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE M908'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0193834+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE S1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0194215+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE S640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0194603+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE U1200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0195022+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE U1600'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0195381+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'UGEE UE16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0195756+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0196147+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0196503+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A15'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0196861+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A30 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.019719+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A30'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0197538+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A50 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0197903+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK A50'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0198266+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK S640 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.019864+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK S640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0198978+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0199311+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1060PRO'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0199678+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK1200'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0200049+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK2200PRO'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.020042+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK430 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.020091+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0201302+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK VK640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0201654+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'VEIKK Voila (VO1060)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0201986+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'ViewSonic Woodpad PF0730'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0202385+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'ViewSonic Woodpad PF1030'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0202747+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTC-4110WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0203104+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTC-6110WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.020346+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0203795+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-440'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0204181+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0204527+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0204854+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0205215+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0205555+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0205911+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTE-660'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0206242+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTF-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0206587+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-300'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0206917+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-301'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0207277+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0207631+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-461'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.020799+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0208366+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-480'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0208711+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-490'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0209085+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-661'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0209497+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-670'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0209864+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-680'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0210222+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTH-690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0210622+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-4100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0210983+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-4100WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0211414+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0211805+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0212182+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-471'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0212534+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-472'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0212921+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-480'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0213256+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-490'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0213579+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-6100'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0213919+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-6100WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.02143+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-671'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0214649+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-672'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.021503+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-680'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0215394+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom CTL-690'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0215793+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTC-121'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0216134+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTC-133'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0216456+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom DTH-1320'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0216791+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Movink 13 (DTH-135)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0217153+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 22HD Touch (DTH-2200)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0217484+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq Pro 22 (DTH-227)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0217815+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq Pro 27 (DTH-271)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0218174+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 13HD (DTK-1300)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0218508+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 16 (DTK-1660)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0218872+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 21UX (DTK-2100)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0219248+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 22HD (DTK-2200)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0219585+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 12WX (DTZ-1200W)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0219936+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 21UX (DTZ-2100)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.022026+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom ET-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0222582+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom ET-0405A-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0223109+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom FT-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0223499+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0223866+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0608-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0224234+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-0912-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0224596+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-1212-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0224923+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom GD-1218-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.022525+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom MTE-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0225628+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom Cintiq 18SX (PL-800-U)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0225993+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0226368+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-451'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0226694+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-460'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0227046+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0227436+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-651'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0227827+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-660'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0228177+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-850'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0228529+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-851'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0228914+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTH-860'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0229301+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-1240'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0229682+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-440'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0230038+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-450'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0230366+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-470'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0230798+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-540WL'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0231163+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0231563+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-650'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0231935+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-670'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0232257+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-840'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.02326+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTK-870'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.023294+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTU-600U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0233261+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-1230'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0233594+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-1231W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0233911+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.023423+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-431W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0234567+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-630'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0235038+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-631W'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0235398+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom PTZ-930'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.023577+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0405-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0236144+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0608-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0236483+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-0912-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0236813+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-1212-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0237185+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Wacom XD-1218-U'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0237562+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'Waltop Slim Tablet 5.8\"'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.023793+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XenceLabs Pen Tablet Medium'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0238262+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XenceLabs Pen Tablet Small'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0238612+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX P1-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0238959+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX P3-1060'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0239288+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XENX X1-640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0239611+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XOPPOX D161'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0239927+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 10 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0240246+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 10S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0240653+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0241039+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.024137+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 12'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.024172+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0241986+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0242274+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.024254+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 13.3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0242804+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6 Pro V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0243068+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0243355+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 15.6'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0243634+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0243887+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.024416+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0244459+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22 (2nd Gen)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0244751+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22HD'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0245011+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 22R Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0245298+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 24 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.024559+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist 24'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0245886+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 14 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0246182+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 16 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0246444+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 16TP'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0246704+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 19 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0246966+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 22 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0247237+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Artist Pro 24 (Gen2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0247547+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun L (CT1060)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0247841+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun XS (CT430)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0248107+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Fun S (CT640)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0248395+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V2 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0248684+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0248984+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V3 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0249281+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0249537+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 01'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0249831+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 02'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0250143+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 03'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0250437+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco 640 (IT640)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0250784+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco L'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0251082+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco LW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0251386+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco M'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.02517+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini4'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0252+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.025229+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0252567+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco mini7W V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0252827+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco MW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0253094+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro LW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0253425+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro Medium'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.025379+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro MW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0254139+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro MW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0254515+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro Small'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0254891+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro SW'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0255235+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Deco Pro XLW Gen2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.025555+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Innovator 16'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0255837+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 02'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0256155+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.025651+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03 V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0256895+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 03'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0257318+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 05 V3'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0257744+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 06'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0258162+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star 06C'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0258603+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0259026+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430S V2'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0259349+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G430S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0259637+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G540 Pro'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0259912+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G540'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0260184+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640 (Variant 2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0260433+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0260758+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G640S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0261027+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0261268+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960S Plus'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0261531+03:00",
+  "Group": "Detect",
+  "Message": "Searching for tablet 'XP-Pen Star G960S'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0511221+03:00",
+  "Group": "Evdev",
+  "Message": "Successfully initialized virtual pressure sensitive tablet. (code NONE)",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0530091+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Output mode: Artist Mode",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0546408+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Display area: [1920x1080@<960, 540>:0°],",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.054822+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Tablet area: [165.1x101.6@<82.55, 50.8>:0°],",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0549496+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Clipping: Enabled",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0550772+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Ignoring reports outside area: Disabled",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0552677+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Pressure: Enabled",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0554152+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Tilt: Enabled",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0611584+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Tip Binding: [Adaptive Binding: Tip]@1%",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0616326+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Eraser Binding: [Adaptive Binding: Eraser]@1%",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0633869+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Pen Bindings: Adaptive Binding: Button 1, Adaptive Binding: Button 2",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0682407+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Filter Settings Precision Control: (Scale: 0.3)",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0683184+03:00",
+  "Group": "Gaomon S620",
+  "Message": "Filter Settings Erase Button",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T11:41:43.0684262+03:00",
+  "Group": "Settings",
+  "Message": "Driver is enabled.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.1506741+03:00",
+  "Group": "IPC",
+  "Message": "Disconnected from a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.2212515+03:00",
+  "Group": "AssemblyLoadContext.Unloading",
+  "Message": "Terminating daemon..",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.2215448+03:00",
+  "Group": "closeDaemon",
+  "Message": "Waiting for daemon to terminate",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.2243064+03:00",
+  "Group": "IPC",
+  "Message": "Connected to a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.2264503+03:00",
+  "Group": "IPC",
+  "Message": "Disconnected from a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.2266985+03:00",
+  "Group": "ProgramMain",
+  "Message": "Daemon gracefully stopped",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2026-05-13T12:45:26.3216221+03:00",
+  "Group": "closeDaemon",
+  "Message": "Waiting for daemon finished",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
